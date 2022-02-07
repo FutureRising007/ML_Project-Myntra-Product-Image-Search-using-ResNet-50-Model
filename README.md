@@ -4,3 +4,4 @@
 
 #### 1. The ResNet 50 model is capable of categorizing more than 1000 objects such as Keyboard , Mouse and a lot more.
 #### 2. The Technologies used by Myntra are ***Deep Learning*** and ***Image Search Implementation***.
+#### 3. This project has been performed under the guidance of ***Tech Learn***.
